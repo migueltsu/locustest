@@ -3,7 +3,7 @@
     {
       "id" : 1,
       "title" : "A reminder for tomorrow",
-      "details" : "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec sit amet pretium risus. Donec sollicitudin consequat tortor. Mauris sed finibus dolor, quis sodales ipsum. Aenean quis mi at est posuere molestie. Morbi interdum, justo vel consequat tristique, tortor risus lobortis tellus, quis iaculis augue risus eget urna. Etiam tristique turpis sapien, quis ultricies lacus vulputate ac. Cras nisl turpis, congue at purus ac, ultrices eleifend dolor. Vivamus ac ultrices mauris. Curabitur rutrum dui eros, eget consequat erat scelerisque eget. Pellentesque nec dapibus orci, nec auctor quam. Nullam ut blandit turpis. Praesent varius augue enim, eget commodo sem maximus nec. Ut ut efficitur nulla. Morbi commodo turpis sed mauris suscipit tristique.",
+      "details" : "This is just a note for tomorrow about the meeting with all family members. It's going to be awesome!",
       "created" : "2019-10-01T12:00:01.001-04:00",
       "timestamp": "2019-10-01T12:00:01.001-04:00"
     },
