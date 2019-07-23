@@ -41,34 +41,6 @@
       "details" : "Sed felis velit, viverra et imperdiet et, volutpat eget est. Nulla vel vulputate enim. Quisque vitae felis commodo ipsum consectetur faucibus sed quis odio. Duis vehicula nunc in libero egestas, a rutrum metus consequat. In sed nisl vel arcu malesuada congue sit amet non turpis. Aliquam eget viverra mi, non finibus magna. Praesent aliquam et augue sit amet commodo. Vivamus ut turpis sagittis, finibus ex quis, tincidunt lorem. Suspendisse vestibulum id augue nec dictum. Etiam laoreet augue sapien, vel fermentum nisi suscipit vitae. Nulla et tempor enim. Donec justo nulla, gravida mattis quam quis, finibus varius nunc. Nulla facilisi. Aenean dapibus maximus mattis. Donec feugiat turpis at volutpat gravida. Suspendisse urna enim, gravida a sapien vel, luctus euismod justo.",
       "created" : "2019-10-01T12:00:01.001-04:00",
       "timestamp": "2019-10-01T12:00:01.001-04:00"
-    },
-    {
-      "id" : 7,
-      "title" : "Letter to myself",
-      "details" : "Duis sed condimentum enim. Maecenas est elit, sodales a nibh eget, lobortis rhoncus ligula. Proin pretium id odio quis eleifend. Suspendisse varius eu neque vitae viverra. Quisque gravida turpis quis ultricies sagittis. Phasellus ultrices quam ac dictum facilisis. Ut felis sem, maximus posuere magna ut, tempus hendrerit enim. Donec at quam varius, ullamcorper mi vitae, placerat mi. Sed sit amet faucibus odio. Integer ac diam vel nisl consectetur ornare eu ut sapien. Vivamus quis neque sem. Suspendisse potenti. Maecenas molestie massa quis neque imperdiet gravida. Aliquam neque urna, dapibus eu erat ut, pulvinar elementum eros. Aliquam erat volutpat.",
-      "created" : "2019-10-01T12:00:01.001-04:00",
-      "timestamp": "2019-10-01T12:00:01.001-04:00"
-    },
-    {
-      "id" : 8,
-      "title" : "Candidate Resume",
-      "details" : "Quisque mattis, ipsum et feugiat laoreet, mauris leo mattis ex, ut semper purus sem et risus. Sed ante tortor, molestie eu orci vitae, imperdiet sodales neque. Pellentesque aliquam eros et mi sodales tempus. Pellentesque scelerisque elit non mi sagittis, sit amet tempus nisl ornare. Suspendisse pellentesque ipsum sit amet dui viverra fermentum. Cras consequat ante vel blandit tristique. Nulla facilisi.",
-      "created" : "2019-10-01T12:00:01.001-04:00",
-      "timestamp": "2019-10-01T12:00:01.001-04:00"
-    },
-    {
-      "id" : 9,
-      "title" : "Project Architecture",
-      "details" : "ante. Donec nibh massa, congue dignissim imperdiet ac, venenatis non odio. Donec neque leo, ultrices in quam vel, tincidunt euismod metus. Duis quis orci a urna volutpat commodo eget vitae mi. Quisque cursus, lorem quis facilisis accumsan, ligula mauris scelerisque arcu, in volutpat ligula ante vel dui. Duis porta orci vel orci iaculis, et faucibus mi molestie. Nulla posuere magna vitae ex finibus ultrices.",
-      "created" : "2019-10-01T12:00:01.001-04:00",
-      "timestamp": "2019-10-01T12:00:01.001-04:00"
-    },
-    {
-      "id" : 10,
-      "title" : "Introduction to AI",
-      "details" : "Nam laoreet, tellus at sagittis volutpat, erat quam malesuada purus, ac consectetur nulla tortor vel augue. Donec vel massa commodo lacus ultricies molestie. Donec vel tortor et justo venenatis lacinia. Vivamus sapien erat, lobortis eget pretium non, suscipit vel enim. Duis nec lectus vitae nibh egestas aliquam. Suspendisse sed tincidunt mi, vel luctus urna. In feugiat erat in sollicitudin fringilla. Aliquam iaculis nunc velit, at hendrerit nisl malesuada eu. Interdum et malesuada fames ac ante ipsum primis in faucibus. Aenean ac lobortis odio. Donec ante nunc, accumsan non gravida ac, bibendum et nulla. Mauris vestibulum, urna sed lacinia dignissim, odio lectus pharetra tellus, nec ullamcorper risus mi vel turpis. Pellentesque consequat sodales molestie. Duis ullamcorper vitae nibh sit amet dictum. Cras sit amet tortor hendrerit, iaculis magna id, venenatis purus. Cras tortor odio, gravida eget orci vitae, sagittis volutpat lacus.",
-      "created" : "2019-10-01T12:00:01.001-04:00",
-      "timestamp": "2019-10-01T12:00:01.001-04:00"
     }
   ]
 }
